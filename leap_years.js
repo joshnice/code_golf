@@ -1,0 +1,1 @@
+for(x=1800;x<2401;x+=4)x%100!=0?console.log(x):(x%400==0&&console.log(x))
